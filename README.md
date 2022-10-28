@@ -5,4 +5,4 @@ Landing by React, react-router-dom.
 ![2022-10-28_13-11-59](https://user-images.githubusercontent.com/101303690/198516731-6a8df49e-955f-4e75-ad43-127c99573704.png)
 
 
-https://zelenkov4462.github.io/LandingShop/
+https://zelenkov4462.github.io/LandingShop-React/
